@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dongle_256-altium-import")(type "KiCad")(uri "${KIPRJMOD}/dongle_256-altium-import.kicad_sym")(options "")(descr ""))
+)
