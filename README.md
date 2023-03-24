@@ -14,3 +14,11 @@ If you have a Raspberry Pi you can follow this guide to flash it. (Tested with R
 https://www.rototron.info/circuitpython-nrf52840-dongle-openocd-pi-tutorial/
 
 OR if you have an STLink-V2 debugger:
+
+Install STLink driver:
+
+https://www.st.com/en/development-tools/stsw-link009.html#get-software
+
+Get and use OpenOCD with STLink:
+
+https://github.com/seemoo-lab/openhaystack/wiki/Flashing-nRF-with-OpenOCD---ST-Link
